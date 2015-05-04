@@ -9,9 +9,7 @@
     <link rel="stylesheet" href="css/foundation.css" />
     <script src="js/vendor/modernizr.js"></script>
   </head>
-  <body>
-    
-        
+  <body>  
     <div class="row">
   <div class="large-12 columns">
  
@@ -48,31 +46,19 @@
           </ul>
         </section>
       </nav>
- 
-     
-  
     </div>
   </div>
  
  
   <div class="row">
     <div class="large-12 columns">
- 
-     
- 
+
       <div class="hide-for-small">
         <div id="featured">
-              <img src="/img/cgy.jpg" alt="slide image">
+              <img src="/cgy/img/cgy.jpg" alt="slide image">
                
           </div>
         </div>
- 
-     
- 
- 
-     
- 
- 
     <div class="row">
       <div class="small-12 show-for-small"><br>
         <img src="http://placehold.it/1000x600&text=For Small Screens"/>
@@ -163,18 +149,10 @@
           <a class="large button expand" href="#">
             Call To Action!
           </a>
- 
- 
         </div>
- 
-     
- 
       </div>
     </div>
   </div>
- 
-     
- 
   <footer class="row">
     <div class="large-12 columns">
       <hr>
@@ -193,8 +171,6 @@
       </div>
     </div>
   </footer>
-    
-    
     <script src="js/vendor/jquery.js"></script>
     <script src="js/foundation.min.js"></script>
     <script>
